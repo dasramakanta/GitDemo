@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Program\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\CSharp\\GitDemo\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\C#\\Program\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\CSharp\\GitDemo\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Program\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\CSharp\\GitDemo\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

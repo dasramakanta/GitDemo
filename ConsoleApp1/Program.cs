@@ -20,6 +20,13 @@ namespace ConsoleApp1
     {
 
     }
+    class emunk
+    {
+       public void add()
+        {
+
+        }
+    }
 
 
 
